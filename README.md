@@ -22,27 +22,6 @@ It is designed to give visitors a clear overview of the company’s products, se
 - Works on any browser
 - No backend required
 - Deployable on any static hosting platform
-
-
-## FOLDER STRUCTURE 
-
-biz/
-|
-|--index.html  #home page
-|--products.html  #products page
-|
 |--assets/
 | |--css/
-| | |--style.css #global styling
-| |--js/
-| | |--main.js #script for interactivity
-| |--images/
-|
-|
-|
-|
-|
-|
-|
-|
-|
+| | |--style.cs
