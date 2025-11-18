@@ -1,7 +1,4 @@
-# jeeth-package-biz
-Jeeth package Official Company Website
-
-# 🌐 Business Website (Static)
+## Website (Static)
 
 This repository contains a fully static, elegant, and professional business website built using **HTML**, **CSS**, and **JavaScript**.  
 It is designed to give visitors a clear overview of the company’s products, services, contact details, and business identity.
